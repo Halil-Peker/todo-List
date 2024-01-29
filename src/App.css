@@ -1,0 +1,107 @@
+.App {
+  text-align: center;
+}
+li:nth-child(odd) {
+  background-color: rgb(255, 255, 255);
+  margin: 10px;
+}
+
+li:nth-child(even) {
+  background-color:  rgba(230, 238, 245, 0.719);
+  margin: 10px;
+}
+
+h1 {
+  width: 100%;
+  font-size: 90px;
+  margin: 20px 0 0 0;
+  text-align: center;
+  color: rgb(244, 3, 3);
+}
+
+.dltBtn {
+  float: right;
+
+}
+
+ul {
+  width: 90%;
+}
+
+li {
+  list-style-type: none;
+}
+
+.todo {
+  padding-left: 20px;
+}
+
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.formWidth {
+  width: 100%;
+  margin-left: 5%;
+}
+
+.buttons {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(144, 79, 25, 0.284);
+  height: 35px;
+}
+
+button {
+  width: auto;
+  margin: 0 5px
+}
+
+.list {
+  width: 100%;
+  text-align: left;
+}
+
+.count {
+  font-weight: 700;
+  color: rgb(0, 9, 42);
+  margin: 0 5px;
+}
+
+.input {
+  width: 90%;
+  height: 40px;
+  margin: 10px 0;
+  border-radius: 5px;
+}
+
+.index {
+  width: 60%;
+  background-color: rgb(197, 222, 245);
+  /* margin-top: 50px; */
+  border-radius: 20px;
+}
+
+h1{
+  color: rgb(239, 166, 56);
+}
+
+.asd{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 90vh;
+}
+
+button {
+  border: none;
+  font-weight: 700;
+  border-radius: 2px;
+  background-color: rgba(232, 94, 26, 0.2);
+  color: rgb(0, 9, 42);
+
+}
