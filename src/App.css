@@ -19,6 +19,10 @@ h1 {
   color: rgb(244, 3, 3);
 }
 
+h1{
+  color: rgb(239, 166, 56);
+}
+
 .dltBtn {
   float: right;
 
@@ -84,10 +88,6 @@ button {
   background-color: rgb(197, 222, 245);
   /* margin-top: 50px; */
   border-radius: 20px;
-}
-
-h1{
-  color: rgb(239, 166, 56);
 }
 
 .asd{
